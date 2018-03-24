@@ -1,0 +1,10 @@
+C:\Users\JoséEnrique\source\repos\Liebre y Tortuga\Liebre y Tortuga\obj\Debug\Liebre y Tortuga.csprojResolveAssemblyReference.cache
+C:\Users\JoséEnrique\source\repos\Liebre y Tortuga\Liebre y Tortuga\obj\Debug\Liebre_y_Tortuga.Form1.resources
+C:\Users\JoséEnrique\source\repos\Liebre y Tortuga\Liebre y Tortuga\obj\Debug\Liebre_y_Tortuga.Properties.Resources.resources
+C:\Users\JoséEnrique\source\repos\Liebre y Tortuga\Liebre y Tortuga\obj\Debug\Liebre y Tortuga.csproj.GenerateResource.Cache
+C:\Users\JoséEnrique\source\repos\Liebre y Tortuga\Liebre y Tortuga\obj\Debug\Liebre y Tortuga.csproj.CoreCompileInputs.cache
+C:\Users\JoséEnrique\source\repos\Liebre y Tortuga\Liebre y Tortuga\bin\Debug\Liebre y Tortuga.exe.config
+C:\Users\JoséEnrique\source\repos\Liebre y Tortuga\Liebre y Tortuga\bin\Debug\Liebre y Tortuga.exe
+C:\Users\JoséEnrique\source\repos\Liebre y Tortuga\Liebre y Tortuga\bin\Debug\Liebre y Tortuga.pdb
+C:\Users\JoséEnrique\source\repos\Liebre y Tortuga\Liebre y Tortuga\obj\Debug\Liebre y Tortuga.exe
+C:\Users\JoséEnrique\source\repos\Liebre y Tortuga\Liebre y Tortuga\obj\Debug\Liebre y Tortuga.pdb
